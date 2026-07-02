@@ -112,6 +112,4 @@ README.md
 
 **Pantelis Nikolaidis**
 
-Master's Student in Data Science
-
-Interested in Machine Learning, Deep Learning, Computer Vision, and Data Analytics.
+Master Degree in Data Science
