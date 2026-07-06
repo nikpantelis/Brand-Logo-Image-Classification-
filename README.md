@@ -98,16 +98,6 @@ README.md
 
 ---
 
-## Future Improvements
-
-- Transfer learning with EfficientNet or ResNet
-- Hyperparameter optimization
-- Model explainability using Grad-CAM
-- Deployment as a web application
-- Support for additional logo datasets
-
----
-
 ## Author
 
 **Pantelis Nikolaidis**
